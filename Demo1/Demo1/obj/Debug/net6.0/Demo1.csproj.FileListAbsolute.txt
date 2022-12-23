@@ -1,0 +1,15 @@
+E:\Selenium c#\Demo1\Demo1\bin\Debug\net6.0\Demo1.exe
+E:\Selenium c#\Demo1\Demo1\bin\Debug\net6.0\Demo1.deps.json
+E:\Selenium c#\Demo1\Demo1\bin\Debug\net6.0\Demo1.runtimeconfig.json
+E:\Selenium c#\Demo1\Demo1\bin\Debug\net6.0\Demo1.dll
+E:\Selenium c#\Demo1\Demo1\bin\Debug\net6.0\Demo1.pdb
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.csproj.AssemblyReference.cache
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfoInputs.cache
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfo.cs
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.csproj.CoreCompileInputs.cache
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.dll
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\refint\Demo1.dll
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.pdb
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\Demo1.genruntimeconfig.cache
+E:\Selenium c#\Demo1\Demo1\obj\Debug\net6.0\ref\Demo1.dll
